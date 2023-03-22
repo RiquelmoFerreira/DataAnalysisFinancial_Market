@@ -24,6 +24,7 @@ The project is an analysis of the closing value of the shares of the Brazilian r
 
 # Run the Project
 Prerequisites:
+- Python 3.11.0 or superior
 - Jupyter Notebook
 - Numpy
 - Pandas
