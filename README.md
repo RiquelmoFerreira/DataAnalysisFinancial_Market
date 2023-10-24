@@ -1,3 +1,49 @@
+# Português:
+# Análise das Ações da Empresa Magalu
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RiquelmoFerreira/DataAnalysisFinancial_Market/blob/main/License)
+
+# Sobre o Projeto
+
+Esse projeto foi feito durante o treino prático do curso de Python para Análise de Dados conduzido por DataViking e o arquivo está disponível nos idiomas: Português (Acoes_Magalu.ipynb) e Inglês (Magalu_Shares.ipynb)
+
+Esse projeto é uma análise do valor de fechamento das ações da empresa brasileira de varejo Magulo dos anos de 2021 a 2022, nesse projeto foram usadas a linguagem Python e suas Bibliotecas Numpy, Pandas, Seaborn, Matplotlib e Plotly no ambiente do Jupyter Notebook.
+
+O Dataset possui as informações da Data, do valor da Alta, do valor da Baixa, do valor da Abertura, do Fechamento, do Volume e do Fechamento Ajustado das ações da empresa de Varejo brasileira Magalu dos anos de 2021 até 2022, nessa análise buscamos entender o pico, as altas e baixas do valor das ações da empresa.
+
+Durante a análise usamos gráficos em linha para analisar a evolução do valor de fechamento das ações, podemos perceber que as ações tiveram seu pico durante o período analisado no começo do ano de 2021 e após isso o valor seguiu oscilando até ter uma queda após o meio do ano de 2021 e que continuou até o início do ano de 2022. Definimos também a Média Móvel dividida ao longo de um período de 5 dias e a Tendência de fechamento durante um período de 30 dias. Por fim plotamos um gráfico Candlestick para poder entender melhor os valores de altas e baixas das ações.
+
+## Visão Geral do Projeto
+![VisaoGeral](https://github.com/RiquelmoFerreira/Images/blob/main/11.png)
+
+## Visão Geral do Gráfico
+![GraficoGeral](https://github.com/RiquelmoFerreira/Images/blob/main/12.png)
+
+# Tecnologias e Bibliotecas
+- Python para Análise de Dados
+- Numpy
+- Pandas
+- Seaborn
+- Matplotlib
+- Plotly
+
+# Rode o Projeto:
+Pré-Requisitos:
+- Python 3.11.0 ou superior
+- Jupyter Notebook
+- Numpy
+- Pandas
+- Seaborn
+- Matplotlib
+- Plotly
+- Power Point
+
+# Autor
+Riquelmo Afonso Avelar Ferreira
+
+https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/
+
+#
+
 # English:
 # Magalu's Shares Analysis Project
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RiquelmoFerreira/DataAnalysisFinancial_Market/blob/main/License)
@@ -43,50 +89,6 @@ Riquelmo Afonso Avelar Ferreira
 
 https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/?locale=en_US
 #
-
-# Português:
-# Análise das Ações da Empresa Magalu
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RiquelmoFerreira/DataAnalysisFinancial_Market/blob/main/License)
-
-# Sobre o Projeto
-
-Esse projeto foi feito durante o treino prático do curso de Python para Análise de Dados conduzido por DataViking e o arquivo está disponível nos idiomas: Português (Acoes_Magalu.ipynb) e Inglês (Magalu_Shares.ipynb)
-
-Esse projeto é uma análise do valor de fechamento das ações da empresa brasileira de varejo Magulo dos anos de 2021 a 2022, nesse projeto foram usadas a linguagem Python e suas Bibliotecas Numpy, Pandas, Seaborn, Matplotlib e Plotly no ambiente do Jupyter Notebook.
-
-O Dataset possui as informações da Data, do valor da Alta, do valor da Baixa, do valor da Abertura, do Fechamento, do Volume e do Fechamento Ajustado das ações da empresa de Varejo brasileira Magalu dos anos de 2021 até 2022, nessa análise buscamos entender o pico, as altas e baixas do valor das ações da empresa.
-
-Durante a análise usamos gráficos em linha para analisar a evolução do valor de fechamento das ações, podemos perceber que as ações tiveram seu pico durante o período analisado no começo do ano de 2021 e após isso o valor seguiu oscilando até ter uma queda após o meio do ano de 2021 e que continuou até o início do ano de 2022. Definimos também a Média Móvel dividida ao longo de um período de 5 dias e a Tendência de fechamento durante um período de 30 dias. Por fim plotamos um gráfico Candlestick para poder entender melhor os valores de altas e baixas das ações.
-
-## Visão Geral do Projeto
-![VisaoGeral](https://github.com/RiquelmoFerreira/Images/blob/main/11.png)
-
-## Visão Geral do Gráfico
-![GraficoGeral](https://github.com/RiquelmoFerreira/Images/blob/main/12.png)
-
-# Tecnologias e Bibliotecas
-- Python para Análise de Dados
-- Numpy
-- Pandas
-- Seaborn
-- Matplotlib
-- Plotly
-
-# Rode o Projeto:
-Pré-Requisitos:
-- Python 3.11.0 ou superior
-- Jupyter Notebook
-- Numpy
-- Pandas
-- Seaborn
-- Matplotlib
-- Plotly
-- Power Point
-
-# Autor
-Riquelmo Afonso Avelar Ferreira
-
-https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/
 
  
 
